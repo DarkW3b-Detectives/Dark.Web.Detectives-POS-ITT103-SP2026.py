@@ -1,0 +1,25 @@
+i. Authors: Fladine Harrison and Dacardo Campbell
+ii. Date Created: April 5th, 2026
+iii. Course: ITT103
+iv. GitHub Public URL to Code: 
+
+Purpose of Program: 
+The purpose of the program is to allow a cashier to use an interactive electronic system to process items in a store. 
+It allows for certin processes based on user input such as: adding items to cart, removing them from cart, 
+the option to view the cart and also to check out. The program has built in calculations that automatically adds discount when the items in cart are $5000 or more,
+and process tax at the time of check out. At the end of check out, a receipt for the user is generated. 
+
+How to run the program: 
+The program first ask the user what they would like to do, whether add items to cart, remove an item, view cart, check out or exit. 
+The user is expected to enter the number that corresponds with the action they want to do. Once that is completed, the inventory menu is displayed. 
+The inventory consist of the item name, the item price as well as the available quantity. 
+
+If the user decdes to add an item, the program ask how many of that item then calculates the total based on the price of the item * quantity. 
+After which the information is automatically commited to the cart for check out. 
+
+If the user decides to 
+
+Limitations: 
+The prgram does not allow for multiple add to cart entries at once, once the user inputs an item and the quantity, the program automatically 
+brings you to the main interactive menu to make a selection again. 
+
