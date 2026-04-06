@@ -17,7 +17,16 @@ The inventory consist of the item name, the item price as well as the available 
 If the user decdes to add an item, the program ask how many of that item then calculates the total based on the price of the item * quantity. 
 After which the information is automatically commited to the cart for check out. 
 
-If the user decides to 
+If the user decides to remove an item from the cart but nothin is in the cart, a notice is printed to say "Your cart is empty". 
+This automatically brings the user back to the main menu to select another action. 
+
+If the user decides to proceed to checkout, if there are not items to be checked out, the user is brought back to the main menu
+after "Add items before checkout!" is printed. 
+
+If the user wants to view cart, not items displays an message and brings the user back to the main menu. 
+
+The program begins to process user input after item(s) have been successfully added to the cart. 
+
 
 Limitations: 
 The prgram does not allow for multiple add to cart entries at once, once the user inputs an item and the quantity, the program automatically 
