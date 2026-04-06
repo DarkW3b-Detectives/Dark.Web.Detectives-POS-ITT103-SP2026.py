@@ -1,7 +1,7 @@
 i. Authors: Fladine Harrison and Dacardo Campbell
 ii. Date Created: April 5th, 2026
 iii. Course: ITT103
-iv. GitHub Public URL to Code: 
+iv. GitHub Public URL to Code: https://github.com/DarkW3b-Detectives/Dark.Web.Detectives-POS-ITT103-SP2026.py
 
 Purpose of Program: 
 The purpose of the program is to allow a cashier to use an interactive electronic system to process items in a store. 
